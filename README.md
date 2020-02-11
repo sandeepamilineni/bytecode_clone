@@ -1,4 +1,6 @@
 ---
+Clone of <a href="https://github.com/iluwatar/java-design-patterns">JAVA Design Patterns</a>
+---
 layout: pattern
 title: Bytecode
 folder: bytecode
